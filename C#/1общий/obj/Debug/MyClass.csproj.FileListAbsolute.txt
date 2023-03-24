@@ -1,0 +1,8 @@
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\bin\Debug\1общий.exe.config
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\bin\Debug\1общий.exe
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\bin\Debug\1общий.pdb
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\obj\Debug\MyClass.csproj.AssemblyReference.cache
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\obj\Debug\MyClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\obj\Debug\1общий.exe
+C:\Users\xoval\OneDrive\Рабочий стол\C#\1общий\obj\Debug\1общий.pdb
